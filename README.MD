@@ -1,4 +1,4 @@
-#Assignment1
+#Assignment 1
 
 WebTester is a Pyhton based web client tool that analyzes web servers by sending HTTP requests and examining responses. It extracts information about
 -HTTP/2 protocol support
